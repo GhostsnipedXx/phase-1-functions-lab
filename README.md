@@ -43,7 +43,7 @@ To complete all of your work assignments, you'll need to write four functions:
 
 - `distanceFromHqInBlocks`: Returns the number of blocks from Scuber's
   headquarters to the pickup location.
-
+o
   ```js
   function distanceFromHqInBlocks(someValue) {
     //returns the number of blocks given a value
